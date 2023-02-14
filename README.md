@@ -1,5 +1,7 @@
 # ActividadExtraordinaria3
 
+*ErickCarbonell_23003931*
+
 La licencia AGPL-3.0 es una licencia de código abierto para proyectos de software, pero se utiliza especificamente para aplicaciones web.
 
 Se eligío esta licencia en concreto ya que al ser una licencia de código abierto permite a los desarrolladores la colaboración y el intercambio de conocimientos para la comunidad.
