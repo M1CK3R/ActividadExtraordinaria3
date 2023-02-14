@@ -1,6 +1,6 @@
 # Temas Unidad 2
 
-- Variables
+-Variables
 
 -Tipos de datos y operadores
 
